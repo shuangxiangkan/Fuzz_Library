@@ -13,8 +13,6 @@ Here, the third parameter `require_null_terminated` controls the behavior of the
 Currently, the repository includes three libraries:
 
 - [openjpeg](https://github.com/uclouvain/openjpeg)
-- [libyang](https://github.com/CESNET/libyang)
-- [libxls](https://github.com/libxls/libxls)
 
 More libraries will be added in the future.
 
