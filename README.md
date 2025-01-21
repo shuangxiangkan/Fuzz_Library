@@ -13,6 +13,8 @@ Here, the third parameter `require_null_terminated` controls the behavior of the
 Currently, the repository includes three libraries:
 
 - [openjpeg](https://github.com/uclouvain/openjpeg)
+- [libyang](https://github.com/CESNET/libyang)
+- [libxls](https://github.com/libxls/libxls)
 
 More libraries will be added in the future.
 
@@ -35,8 +37,6 @@ First, clone the libraries you want to test from GitHub. For example:
 
 ```bash
 git clone https://github.com/uclouvain/openjpeg.git
-git clone https://github.com/CESNET/libyang.git
-git clone https://github.com/libxls/libxls.git
 ```
 
 ### 2. Instrumented Compilation with AFL++
