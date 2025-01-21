@@ -86,5 +86,5 @@ If you discover memory-related bugs during fuzz testing, please follow these ste
 2. **Report the Bug**:
    - Open an issue in the respective library’s repository (e.g., [openjpeg](https://github.com/uclouvain/openjpeg/issues)).
    - Notify us via email:
-     - Shuangxiang Kan: [shuangxiang.kan@unsw.edu.au](mailto:shuangxiang.kan@unsw.edu.au)
      - Yuekang Li: [yuekang.li@unsw.edu.au](mailto:yuekang.li@unsw.edu.au)
+     - Shuangxiang Kan: [shuangxiang.kan@unsw.edu.au](mailto:shuangxiang.kan@unsw.edu.au)
